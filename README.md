@@ -1,7 +1,7 @@
 <img src="https://imarticus.org/blog/wp-content/uploads/2021/03/hhhee.gif"/>
 <h1 align="center">Hi 👋, I'm Banothu Nithin</h1>
 <h3 align="center">A passionate Data Analyst and Frontend developer from India</h3>
-<img align="right" height="300" src="https://cdn.dribbble.com/users/720555/screenshots/4029449/desk.gif"  />
+<img align="right" height="280" src="https://cdn.dribbble.com/users/720555/screenshots/4029449/desk.gif"  />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=banothunithin&label=Profile%20views&color=0e75b6&style=flat" alt="banothunithin" /> </p>
 
