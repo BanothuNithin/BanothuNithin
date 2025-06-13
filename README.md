@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=banothunithin&label=Profile%20views&color=0e75b6&style=flat" alt="banothunithin" /> </p>
 
-- 🔭 I’m currently working on **Real time Data Aanalysis project**
+- 🔭 I’m currently working on **Real time Full-stack & Data Aanalysis project**
 
 - 🌱 I’m currently learning **PowerBi,SQL,Mernstack,ML**
 
