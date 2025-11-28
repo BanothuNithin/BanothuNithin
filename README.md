@@ -5,20 +5,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=banothunithin&label=Profile%20views&color=0e75b6&style=flat" alt="banothunithin" /> </p>
 
-- 🔭 I’m currently working on **Real time Full-stack & AI Integration project**
+- 🔭 I’m currently working on **Real time Full-stack & AI Integration projects**
 
-- 🌱 I’m currently learning **PowerBi,SQL,Mernstack,ML**
+- 🌱 I’m currently learning **AI tools,Pyhton,Mernstack,ML**
 
 - 👯 I’m looking to collaborate on **Fullsatck**
 
-- 💬 Ask me about **Excel,SQL,Mernstack**
+- 💬 Ask me about **AI tools,Mernstack**
 
 - 📫 How to reach me **bnithinnaik@gmail.com**
 
 - ⚡ Fun fact **Carzy about Technologies**
 
 # 💫 About Me:
-Hello! I'm a Data Analyst and Full Stack Developer named Banothu Nithin, and I'm passionate about transforming data into actionable insights and creating digital products like websites and web applications that enhance people's daily lives. I thrive on tackling challenging projects that push my skills to the limit.
+Hello! I'm a Full Stack Developer named Banothu Nithin, and I'm passionate about transforming data into actionable insights and creating digital products like websites and web applications that enhance people's daily lives. I thrive on tackling challenging projects that push my skills to the limit.
 
 As a Full Stack Developer, I specialize in building dynamic and responsive web applications using the MERN stack and programming languages like JavaScript and React. As a Data Analyst, I leverage my expertise in data visualization, SQL, and statistical analysis to uncover meaningful patterns and drive informed decision-making.
 
